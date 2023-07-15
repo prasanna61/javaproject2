@@ -1,4 +1,8 @@
 # javaproject2
+// Execute only rent a ride2.java only
+
+
+//otherwise execute below code
 package rentaRide;
 import java.util.Scanner;
 public class CarInformation {
